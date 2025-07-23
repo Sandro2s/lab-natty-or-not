@@ -1,5 +1,5 @@
 ## 📘 E-BOOK
-##O Impacto da Inteligência Artificial no Ensino Fundamental
+## O Impacto da Inteligência Artificial no Ensino Fundamental
 Por: Sandro Soares da Silva
 
 #🧠 1. Introdução: O Que É Inteligência Artificial?
