@@ -48,4 +48,4 @@ Mais do que substituir o professor, a IA deve ser uma aliada no processo de ensi
 
 #“Educar não é encher um balde, é acender uma chama.” – William Butler Yeats
 
-E-book pdf
+- E-book pdf (/exemplo/O_Impacto_da_IA_no_Ensino_Fundamental.pdf)
