@@ -3,7 +3,8 @@
 Por: Sandro Soares da Silva
 
 # 🧠 1. Introdução: O Que É Inteligência Artificial?
-    A Inteligência Artificial (IA) é uma área da tecnologia que desenvolve sistemas capazes de simular a inteligência humana. Isso inclui máquinas que aprendem, resolvem problemas, reconhecem vozes e imagens, e até tomam decisões com base em dados.
+   A Inteligência Artificial (IA) é uma área da tecnologia que desenvolve sistemas capazes de simular a inteligência humana. Isso inclui máquinas que aprendem, 
+    resolvem problemas, reconhecem vozes e imagens, e até tomam decisões com base em dados.
 
   Nos últimos anos, a IA deixou de ser apenas um tema de filmes e universidades para se tornar parte do nosso dia a dia — inclusive nas salas de aula do ensino fundamental.
 
