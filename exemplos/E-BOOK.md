@@ -46,6 +46,6 @@ Inclusão: Alunos com necessidades especiais se beneficiam de tecnologias como l
 
 Mais do que substituir o professor, a IA deve ser uma aliada no processo de ensino-aprendizagem, respeitando o papel humano de inspirar, acolher e transformar.
 
-#“Educar não é encher um balde, é acender uma chama.” – William Butler Yeats
+# “Educar não é encher um balde, é acender uma chama.” – William Butler Yeats
 
 - [E-book pdf](/exemplos/O_Impacto_da_IA_no_Ensino_Fundamental.pdf)
